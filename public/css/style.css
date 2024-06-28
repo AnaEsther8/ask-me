@@ -1,0 +1,22 @@
+body{
+    background-color: #ece
+    
+}
+#formulario-pergunta{
+    margin-top: 5vh; /* 5%da altura da tela*/
+
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10bh;
+}
